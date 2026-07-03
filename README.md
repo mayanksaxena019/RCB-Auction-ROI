@@ -150,13 +150,13 @@ All visuals are interconnected through Power BI cross-filtering, enabling dynami
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/RCB-Auction-ROI-Dashboard.git
+git clone https://github.com/mayanksaxena019/RCB-Auction-ROI-Dashboard.git
 ```
 
 ### Install the required libraries
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### Run the notebook
